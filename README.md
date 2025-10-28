@@ -43,7 +43,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/KartikeyaNainkhwal/muzer.git
+   git clone https://github.com/KartikeyaNainkhwal/muser.git
    cd muzer
    ```
 
@@ -59,7 +59,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/KartikeyaNainkhwal/muzer.git
+   git clone https://github.com/KartikeyaNainkhwal/muser.git
    cd muzer
    ```
 
@@ -138,7 +138,7 @@
 
 Maintained by [Kartikeya Nainkhwal](https://github.com/KartikeyaNainkhwal).
 
-For questions, suggestions, or issues, please [open an issue](https://github.com/KartikeyaNainkhwal/muzer/issues) or reach out via [GitHub](https://github.com/KartikeyaNainkhwal).
+For questions, suggestions, or issues, please [open an issue](https://github.com/KartikeyaNainkhwal/muser/issues) or reach out via [GitHub](https://github.com/KartikeyaNainkhwal).
 
 ---
 
