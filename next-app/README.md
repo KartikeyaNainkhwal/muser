@@ -22,7 +22,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/KartikeyaNainkhwal/muzer.git
+   git clone https://github.com/KartikeyaNainkhwal/muser.git
    cd muzer/next-app
    ```
 2. **(Optional)** Create a Docker volume if you face mount/volume errors:
@@ -38,7 +38,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/KartikeyaNainkhwal/muzer.git
+   git clone https://github.com/KartikeyaNainkhwal/muser.git
    cd muzer/next-app
    ```
 2. **(Optional) Start a PostgreSQL database using Docker:**
